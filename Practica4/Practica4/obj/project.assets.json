@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS\\Practica4\\Practica4\\Practica4.csproj",
+      "projectUniqueName": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS_Repos\\DEIN1\\Practica4\\Practica4\\Practica4.csproj",
       "projectName": "Practica4",
-      "projectPath": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS\\Practica4\\Practica4\\Practica4.csproj",
+      "projectPath": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS_Repos\\DEIN1\\Practica4\\Practica4\\Practica4.csproj",
       "packagesPath": "C:\\Users\\jtienda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS\\Practica4\\Practica4\\obj\\",
+      "outputPath": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS_Repos\\DEIN1\\Practica4\\Practica4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jtienda\\AppData\\Roaming\\NuGet\\NuGet.Config",

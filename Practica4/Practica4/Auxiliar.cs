@@ -30,10 +30,10 @@ namespace Practica4
             string text = "";
             while (bucle)
             {
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine(mensaje);
                 try
                 {
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine(mensaje);
                     text = Console.ReadLine();
                     if (text.Equals(""))
                     {
@@ -66,10 +66,10 @@ namespace Practica4
             int num = 0;
             while (bucle)
             {
-                Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine(mensaje);
                 try
                 {
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine(mensaje);
                     num = Convert.ToInt32(Console.ReadLine());
                     if (num <= 0)
                     {
