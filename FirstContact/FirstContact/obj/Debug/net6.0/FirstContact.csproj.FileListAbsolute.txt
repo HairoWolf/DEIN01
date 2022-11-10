@@ -1,0 +1,15 @@
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\bin\Debug\net6.0\FirstContact.exe
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\bin\Debug\net6.0\FirstContact.deps.json
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\bin\Debug\net6.0\FirstContact.runtimeconfig.json
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\bin\Debug\net6.0\FirstContact.dll
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\bin\Debug\net6.0\FirstContact.pdb
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.csproj.AssemblyReference.cache
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.AssemblyInfoInputs.cache
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.AssemblyInfo.cs
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.csproj.CoreCompileInputs.cache
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.dll
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\refint\FirstContact.dll
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.pdb
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\FirstContact.genruntimeconfig.cache
+C:\Users\jtienda\Documents\2 DAM\DEIN\VS\FirstContact\FirstContact\obj\Debug\net6.0\ref\FirstContact.dll

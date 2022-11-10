@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZ6RuyJsuDlkK5isSE8NJ8dNdq/MbJl8Uek1q9MiXN6NBZcWI0sKzAIedt7GzXvtpy/Y/fdTKgSB9CsyN9Bx7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jtienda\\Documents\\2 DAM\\DEIN\\VS\\Practica_Inicial\\Practica_Inicial\\Practica_Inicial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jtienda\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\jtienda\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\jtienda\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
