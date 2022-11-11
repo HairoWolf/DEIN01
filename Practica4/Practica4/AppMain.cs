@@ -4,6 +4,7 @@
 * CURSO y GRUPO........: 2º Desarrollo de Interfaces
 * TÍTULO de la PRÁCTICA: Diseño de clases. Herencia y polimorfismo.
 * FECHA de ENTREGA.....: 10 de noviembre de 2022
+* Pequeña modificacion
 */
 
 using System.Collections;
